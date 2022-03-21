@@ -1,0 +1,22 @@
+{
+  "name": "greg",
+  "version": "1.0.0",
+  "description": "bot simples de envio de mensagens via watsapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grehgcl/bot-watsapp.git"
+  },
+  "author": "gregorio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grehgcl/bot-watsapp/issues"
+  },
+  "homepage": "https://github.com/grehgcl/bot-watsapp#readme",
+  "dependencies": {
+    "puppeteer": "^13.5.1"
+  }
+}
