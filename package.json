@@ -1,5 +1,5 @@
 {
-  "name": "greg",
+  "name": "bot-watsapp",
   "version": "1.0.0",
   "description": "bot simples de envio de mensagens via watsapp",
   "main": "index.js",
@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/grehgcl/bot-watsapp/issues"
   },
-  "homepage": "https://github.com/grehgcl/bot-watsapp#readme",
-  "dependencies": {
-    "puppeteer": "^13.5.1"
-  }
+  "homepage": "https://github.com/grehgcl/bot-watsapp#readme"
 }
